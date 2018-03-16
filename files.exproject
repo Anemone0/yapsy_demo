@@ -1,0 +1,20 @@
+" Press <F1> for help
+
+-[F]yapsy {
+ |-[F]plugins {
+ | |-[F]plugin1 {
+ |   |-__init__.py
+ |   |-plugin1.py
+ |   |-plugin1.yapsy-plugin } }
+ |
+ |-[F]plugins2 {
+ | |-[F]plugin2 {
+ |   |-__init__.py
+ |   |-plugin2.py
+ |   |-plugin2.yapsy-plugin } }
+ |
+ |-files.exproject
+ |-plugin1.py
+ |-yapsy-example.py }
+
+
